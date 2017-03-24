@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="head">
+  <head>
+    <meta charset="utf8">
+    <title><%= 'namer' %></title>
+    <link href="/reset.css" rel="stylesheet">
+    <link href="/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <hgroup>
+        <h1><a href="/">namer</a></h1>
+        <h2>'cause you're too busy to name things</h2>
+      </hgroup>
+    </header>
+
+    <div id="main">
+      <%= yield %>
+    </div>
+
+    <footer>
+      <center> <p><small>An app created by <a href="https://twitter.com/jjasghar">@jjasghar</a> because he was lazy. Version: 0.1.0</small></p></center>
+    </footer>
+  </body>
+</html>

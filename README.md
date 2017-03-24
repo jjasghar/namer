@@ -6,13 +6,13 @@ seemed script-able and easy.
 
 ## Usage
 
-- You can `curl` or do a HTTP GET request against `http://url/api/v1` and it'll respond <adjective-noun>.
-- You can go to the site `http://url` where you deploy this and it'll give you a <adjective-noun> on the home page.
+- You can `curl` or do a HTTP GET request against `http://url/api/v1` and it'll respond `adjective-noun`.
+- You can go to the site `http://url` where you deploy this and it'll give you a `adjective-noun` on the home page.
 
 ## Future plans
 
-- `/api/v2/musician` to get an <adjective-musician>
-- `/api/v2/scifi` to get an <adjective-scificharacter>
+- `/api/v2/musician` to get an `adjective-musician`
+- `/api/v2/scifi` to get an `adjective-scificharacter`
 - A way to select options like above from above from the main page
 
 ## Contributing
